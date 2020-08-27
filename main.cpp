@@ -1,1 +1,2 @@
-cout << " u man"
+cout << " u man" << endl;
+cout << " yyou loooose" << endl;
